@@ -6,6 +6,7 @@ window.APP = {
   rivals: [{ id: "eduard", name: "Эдуард" }, { id: "dariy", name: "Дарий" }],
   main: ["move", "work", "study", "focus", "channel", "plan"],
   extra: { key: "music", name: "Канал", hex: "#FF7AD9", short: "сценарий, озвучка, монтаж", stat: "Контент" },
+  why: { text: "Структурировать свои задачи", goals: [] },
   tg: "https://t.me/kurayg",
   wheel: [
     ["🍕", "Пицца", "Проигравший заказывает пиццу на всех."],

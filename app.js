@@ -4,7 +4,7 @@ window.APP = {
   box: "https://textdb.dev/api/data/e70f9805-330d-4735-8cec-187972f073c2-",
   me: "ilya", meName: "Илья",
   rivals: [{ id: "eduard", name: "Эдуард" }, { id: "dariy", name: "Дарий" }],
-  main: ["move", "work", "study", "focus", "channel", "plan"],
+  main: ["move", "work", "study", "focus", "channel", "plan", "read", "report"],
   extra: { key: "music", name: "Канал", hex: "#FF7AD9", short: "сценарий, озвучка, монтаж", stat: "Контент" },
   why: { text: "Структурировать свои задачи", goals: [] },
   tg: "https://t.me/kurayg",
